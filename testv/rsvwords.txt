@@ -1,0 +1,15 @@
+obf_test_1
+uart
+reset
+txclk
+ld_tx_data
+tx_data
+tx_enable
+tx_out
+tx_empty
+uld_rx_data
+rx_data
+rx_enable
+rx_in
+rx_empty
+rxclk
